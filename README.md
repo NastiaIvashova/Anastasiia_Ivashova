@@ -28,3 +28,4 @@ Cucumber scenario is located in the test folder in the resources package and in 
 1. There is Cucumber.feature, which contains scenario. User authorizes, adds random name and assigned currency, saves record and then deletes it.
 
 2. There is CucumberStep.java, which contains all steps for Cucumber.feature.
+Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/CucumberSteps
