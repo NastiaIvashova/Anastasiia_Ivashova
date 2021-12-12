@@ -16,7 +16,7 @@
 
 - Ivashova folder contains all my software project for Selenium Home task.
 
- 1) Selenium scenario is located in the test folder in the WebUI.Main package. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/WebUser/Main
+ 1) Selenium scenario is located in the test folder in the WebUI.Main package. Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/WebUser/Main
     1. There is Authorization.java, which fills in the Username and Password text fields. Then he clicks on the Login button and successfully logs in as an Admin. 
     2. There is AddPayGradeRecord.java, which goes to Pay Grande page, adds Random name and saves this record.
     3. There is AddAssignedCurrency.java, which adds Assigned Currency for new created record ( it adds Currency, Min and Max salaries) and saves that record.
@@ -24,7 +24,7 @@
     5. There is Main.java, which launches Chrome Browser, opens site and runs class methods (Authorization.java, AddPayGradeRecord.java, AddAssignedCurrency.java and DeleteAndCheckRecord.java)
 
  2) Cucumber scenario is located in the test folder in the resources package and in the test folder in the CucumerSteps package.
-      1. There is Cucumber.feature, which contains scenario. User authorizes, adds random name and assigned currency, saves record and then deletes it.Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/src/test/resources/Cucumber.feature
-      2. There is CucumberStep.java, which contains all steps for Cucumber.feature.Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/src/test/java/CucumberSteps/CucumberStep.java
+      1. There is Cucumber.feature, which contains scenario. User authorizes, adds random name and assigned currency, saves record and then deletes it.Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/src/test/resources/Cucumber.feature
+      2. There is CucumberStep.java, which contains all steps for Cucumber.feature.Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/src/test/java/CucumberSteps/CucumberStep.java
 
- 3) pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/pom.xml
+ 3) pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/pom.xml
