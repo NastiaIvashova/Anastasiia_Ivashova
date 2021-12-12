@@ -31,3 +31,4 @@ Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/
 Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/CucumberSteps
 
 3) pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. 
+Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/pom.xml
