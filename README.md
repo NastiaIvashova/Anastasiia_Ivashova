@@ -28,7 +28,7 @@ Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/
 1. There is Cucumber.feature, which contains scenario. User authorizes, adds random name and assigned currency, saves record and then deletes it.
 Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/resources
 2. There is CucumberStep.java, which contains all steps for Cucumber.feature.
-Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/CucumberSteps
+Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/src/test/java/CucumberSteps/CucumberStep.java
 
 3) pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. 
 Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebUI/Ivashova/pom.xml
