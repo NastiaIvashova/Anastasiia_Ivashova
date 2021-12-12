@@ -14,7 +14,7 @@
 5. Check that your changes are visible on the Pay Grades page [chech Pay Grade and Currency fields]
 6. Select your field, click the Remove button and make sure your field is removed.
 
-Ivashova folder contains all my software project for Selenium Home task.
+- Ivashova folder contains all my software project for Selenium Home task.
 
 1) Selenium scenario is located in the test folder in the WebUI.Main package.
 Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/WebUser/Main
