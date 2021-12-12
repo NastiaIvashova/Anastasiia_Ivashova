@@ -16,7 +16,7 @@
 
 - Ivashova folder contains all my software project for Selenium Home task.
 
-  1) Selenium scenario is located in the test folder in the WebUI.Main package. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/WebUser/Main
+ 1) Selenium scenario is located in the test folder in the WebUI.Main package. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/tree/WebUI/Ivashova/src/test/java/WebUser/Main
     1. There is Authorization.java, which fills in the Username and Password text fields. Then he clicks on the Login button and successfully logs in as an Admin. 
     2. There is AddPayGradeRecord.java, which goes to Pay Grande page, adds Random name and saves this record.
     3. There is AddAssignedCurrency.java, which adds Assigned Currency for new created record ( it adds Currency, Min and Max salaries) and saves that record.
