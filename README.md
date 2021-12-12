@@ -16,3 +16,4 @@
 5. Check that your changes are visible on the Pay Grades page [chech Pay Grade and Currency fields]
 6. Select your field, click the Remove button and make sure your field is removed.
 
+Selenium senerio is located in the test folder in the WebUI.Main package.
