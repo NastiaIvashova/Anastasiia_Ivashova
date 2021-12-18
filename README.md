@@ -1,4 +1,4 @@
-# Anastasiia_Ivashova
+# WebAPI
 I use for WebAPIs bascis - Homework:
    1) IntelliJ IDEA Community Edition 2021.2.3
    2) Java 17
