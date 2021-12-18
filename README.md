@@ -37,8 +37,9 @@ Main.java uses this file to load, retrieve metadata and delete.
  Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebAPI/WebAPI.postman_collection.json
  
  ![image](https://user-images.githubusercontent.com/90038890/146656148-19660d04-626b-4fc8-9650-10aa112336ed.png)
- ![image](https://user-images.githubusercontent.com/90038890/146656155-4ea24c42-60e6-4231-82da-1bbfce81edc3.png)
- ![image](https://user-images.githubusercontent.com/90038890/146656159-e19873c3-54e6-4e2a-b802-80e1f9a19a4c.png)
+ ![image](https://user-images.githubusercontent.com/90038890/146656504-452115cb-34bd-4744-8aae-ef51555661a3.png)
+ ![image](https://user-images.githubusercontent.com/90038890/146656511-e2343ebe-babd-444e-80b3-6017eccd60f6.png)
+
 
 
 
