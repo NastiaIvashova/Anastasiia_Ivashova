@@ -21,10 +21,10 @@ This code uploads text.txt in my Івашова Анастасія app in the Dr
 2) text.txt is located in the src folder(FileTXT). Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebAPI/WebAPI_Ivashova/src/FileTXT/text.TXT
 Main.java uses this file to load, retrieve metadata and delete.
 
-3)pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebAPI/WebAPI_Ivashova/pom.xml
+ 3)pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebAPI/WebAPI_Ivashova/pom.xml
 
-Also, I tested my code in TeamCity and Postman.
+ Also, I tested my code in TeamCity and Postman.
 
-TeamCity path: http://20.185.254.154:8111/buildConfiguration/Ka98_AnastasiiaIvashova#all-projects
+ TeamCity path: http://20.185.254.154:8111/buildConfiguration/Ka98_AnastasiiaIvashova#all-projects
 
-Postman path: https://go.postman.co/workspace/My-Workspace~5a6f7387-7074-44d3-8878-18b112a7fc0d/collection/18774804-db2661c7-e82c-456c-bf84-d05dd823cf31
+ Postman path: https://go.postman.co/workspace/My-Workspace~5a6f7387-7074-44d3-8878-18b112a7fc0d/collection/18774804-db2661c7-e82c-456c-bf84-d05dd823cf31
