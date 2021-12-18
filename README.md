@@ -21,7 +21,7 @@ This code uploads text.txt in my Івашова Анастасія app in the Dr
 2) text.txt is located in the src folder(FileTXT). Path: https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebAPI/WebAPI_Ivashova/src/FileTXT/text.TXT
 Main.java uses this file to load, retrieve metadata and delete.
 
- 3)pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebAPI/WebAPI_Ivashova/pom.xml
+3) pom.xml contains information for a software project maintained by Maven. During execution, Maven first of all checks whether this file contains all the necessary data and whether all the data is syntactically correct. Path:https://github.com/NastiaIvashova/Anastasiia_Ivashova/blob/WebAPI/WebAPI_Ivashova/pom.xml
 
  Also, I tested my code in TeamCity and Postman.
 
