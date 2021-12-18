@@ -30,7 +30,7 @@ Main.java uses this file to load, retrieve metadata and delete.
  ![image](https://user-images.githubusercontent.com/90038890/146656131-d8ccdf4b-f450-4595-bab8-37c20fe110f2.png)
 
 
- Postman path: https://www.postman.com/satellite-administrator-449122/workspace/webapi-nastia/collection/18774804-6ae24649-0139-427d-a952-3da1f92adf54
+ Postman path: https://go.postman.co/workspace/My-Workspace~5a6f7387-7074-44d3-8878-18b112a7fc0d/collection/18774804-db2661c7-e82c-456c-bf84-d05dd823cf31
  
  If you han't aссess for my postman collection in Postman, you can see WebAPI.postman_collection.json
  
